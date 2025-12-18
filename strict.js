@@ -94,4 +94,5 @@ const StrictIPhoneDetector = (() => {
         }
     };
 })();
+window.StrictIPhoneDetector = StrictIPhoneDetector;
 //<!-- git test change -->

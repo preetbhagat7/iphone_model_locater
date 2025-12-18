@@ -94,3 +94,4 @@ const StrictIPhoneDetector = (() => {
         }
     };
 })();
+//<!-- git test change -->
